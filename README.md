@@ -2,9 +2,12 @@
 AI app for mushrooms recognition
 using tensorflow lite, firebase services.
 User interfaces:
-![WhatsApp Image 2023-07-11 at 18 36 24](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/066e000a-56b0-4019-9d0e-8033abc2841a)
-![WhatsApp Image 2023-07-11 ](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/e51aa9c7-1507-4d47-b4ac-435ecc67efb0)
-![WhatsApp Image 2023-07-11 ](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/a52ccb83-c5ba-46a9-ac0c-c9fc7a130549)
-![image](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/e5f8c037-bd91-4b5c-8b94-2c93d8be701b)
 
 
+![1](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/bea55335-9b0c-45f1-bd2f-01d446f4dec4)
+
+![2](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/4b74ad7c-6d56-4ef7-a987-ab1edab47c9c)
+
+![3](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/e75afdcd-3458-446b-9ff4-b60f08fa2e7c)
+
+![4](https://github.com/vrtkarim/AI-Mushrooms/assets/109855615/243a1b25-8a9e-4324-918d-e7febfba5544)
